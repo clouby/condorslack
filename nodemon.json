@@ -1,0 +1,8 @@
+{
+  "env": {
+    "HTTP_PORT": 4000,
+    "USERNAME_DB": "clouby",
+    "PASSWORD_DB": "TK3kceI2wHYkjJIU",
+    "SECRET_KEY_TOKEN": "condor$"
+  }
+}

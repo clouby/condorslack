@@ -12,3 +12,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+img {
+  max-width: 100%;
+}
+
+.react-spinner-loader-svg,
+.scrollbar-container ~ span {
+  text-align: center;
+}
