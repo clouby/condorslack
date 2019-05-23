@@ -6,7 +6,7 @@ Antes de correr la aplicacion se necesitan los siguientes requisitos:
 
 > Esta app es un inicio base de lo que pretendo hacer **espero mejoras**
 
-Primero sera instalar los paquetes>
+Instalar los siguientes paquetes:
 
 ### `npm install or yarn install`
 
