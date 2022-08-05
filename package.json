@@ -22,7 +22,7 @@
     "jsonwebtoken": "^8.4.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.23",
-    "mongoose": "^5.4.9",
+    "mongoose": "^5.7.5",
     "mongoose-bcrypt": "^1.6.0",
     "mongoose-unique-validator": "^2.0.2",
     "react": "^16.8.0",
