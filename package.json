@@ -19,7 +19,7 @@
     "graphql-iso-date": "^3.6.1",
     "graphql-tools": "^4.0.4",
     "graphql-upload": "^8.0.4",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.23",
     "mongoose": "^5.4.9",
